@@ -44,15 +44,21 @@
   color: rgba(24, 24, 24, 1);
 }
 
+
 .intro {
   background-image: url('img/wallpaper.jpeg');
-  background-position: center;
+  min-height: 500px; 
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   background-size: cover;
-  height: 378px;
   display: flex;
   align-items: center;
+  
+  
 }
+
+
 
 .intro h2 {
   font-family: Montserrat;
@@ -62,21 +68,24 @@
   font-weight: 700;
   line-height: 39px;
   letter-spacing: 0em;
-  display: flex;
   margin-left: 90px;
   margin-bottom: 20px;
+  
+  
+  
+  
 }
 
 .intro p {
   font-family: Montserrat;
   font-style: normal;
-
+  
   font-size: 18px;
   line-height: 196.19%;
   color: white;
   margin-left: 90px;
-  display: flex;
-  align-items: center;
+  
+  
 }
 
 .destaques h2 {

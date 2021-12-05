@@ -15,12 +15,18 @@
     </a></div>
   </header>
   
-  <div class="intro">
-    <div class="width">
-      <h2>A melhor loja de Jordan</h2>
-      <p>O tênis Jordan é fruto de uma velha e forte</p> <p>parceria entre a Nike e o jogador Michael Jordan.</p>
+  
+    
+    <div class="intro">
+      <div class="width">
+        <h2>A melhor loja de Jordan</h2>
+        <p id="typed"></p>
+        <div id="typed-strings">
+          <p>O tênis Jordan é fruto de uma velha e forte  <br> parceria entre a Nike e o jogador Michael Jordan.</p>
+        </div>
+      </div>
     </div>
-  </div>
+  
   
 
   <section class="destaques">
@@ -43,5 +49,15 @@
       <h2>Codificado por Luiz Intrépido</h2>
     </a>
   </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"> </script>
+
+  <script>
+    var typed = new Typed( '#typed', {
+      stringsElement: '#typed-strings',
+      typeSpeed: 30
+    });
+    </script>
+
 </body>
 </html>
