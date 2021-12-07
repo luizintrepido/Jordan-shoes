@@ -15,7 +15,7 @@ JavaScript (animações)
 ## 🌐 Projeto final
 [Clique aqui](https://luizintrepido.github.io/Jordan-shoes/) para acessar o projeto no ar!
 
-![image](![image](https://user-images.githubusercontent.com/93409913/144953316-383093d4-2a25-430b-b27c-a93647a159bb.png))
+![image](https://user-images.githubusercontent.com/93409913/144953316-383093d4-2a25-430b-b27c-a93647a159bb.png)
 
 
 ---
