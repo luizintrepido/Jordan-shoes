@@ -1,7 +1,7 @@
 # Jordan-shoes
  
 <h2>💻 Sobre o projeto</h2>
-Projeto criado para praticar as habilidades em HTML e CSS. Pagina inicial de uma loja fictícia.
+Projeto criado para praticar as habilidades em HTML e CSS. Pagina inicial de uma loja fictícia. Desafio proposto pela Codelandia.
 
  <h2>🚀Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
